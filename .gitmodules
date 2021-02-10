@@ -1,0 +1,4 @@
+[submodule "charge-collector"]
+	path = charge-collector
+	url = git@github.com:xmarts/charge-collectors.git
+	branch = main
