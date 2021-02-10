@@ -2,3 +2,8 @@
 	path = charge-collector
 	url = git@github.com:xmarts/charge-collectors.git
 	branch = main
+
+[submodule "colonias"]
+	path = colonias
+	url = git@github.com:xmarts/colonias.git
+	branch = 13.0
