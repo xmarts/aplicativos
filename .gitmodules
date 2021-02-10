@@ -17,3 +17,8 @@
 	path = mortuary
 	url = git@github.com:xmarts/mortuary.git
 	branch = main
+
+[submodule "multi-branch"]
+	path = multi-branch
+	url = git@github.com:xmarts/multi-branch.git
+	branch = master
