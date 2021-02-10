@@ -22,3 +22,8 @@
 	path = multi-branch
 	url = git@github.com:xmarts/multi-branch.git
 	branch = master
+
+[submodule "series-purchase"]
+	path = series-purchase
+	url = git@github.com:xmarts/series-purchase.git
+	branch = 13.0
