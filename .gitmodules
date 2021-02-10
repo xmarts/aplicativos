@@ -32,3 +32,8 @@
 	path = xmarts-aplicativos
 	url = git@github.com:xmarts/xmarts-aplicativos.git
 	branch = 13.0
+
+[submodule "comisiones"]
+	path = comisiones
+	url = git@github.com:xmarts/comisiones.git
+	branch = main
