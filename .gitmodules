@@ -12,3 +12,8 @@
 	path = commission-control
 	url = git@github.com:xmarts/commission-control.git
 	branch = 13.0
+
+[submodule "mortuary"]
+	path = mortuary
+	url = git@github.com:xmarts/mortuary.git
+	branch = main
