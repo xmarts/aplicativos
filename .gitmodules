@@ -7,3 +7,8 @@
 	path = colonias
 	url = git@github.com:xmarts/colonias.git
 	branch = 13.0
+
+[submodule "commission-control"]
+	path = commission-control
+	url = git@github.com:xmarts/commission-control.git
+	branch = 13.0
