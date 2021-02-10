@@ -27,3 +27,8 @@
 	path = series-purchase
 	url = git@github.com:xmarts/series-purchase.git
 	branch = 13.0
+
+[submodule "xmarts-aplicativos"]
+	path = xmarts-aplicativos
+	url = git@github.com:xmarts/xmarts-aplicativos.git
+	branch = 13.0
