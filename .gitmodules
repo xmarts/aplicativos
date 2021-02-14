@@ -39,8 +39,4 @@
 	branch = main
 
 
-[submodule "eserrano-pabs/PABS"]
-	path = eserrano-pabs/PABS
-	url = git@github.com:eserrano-pabs/PABS.git
-	branch = eserrano
 
